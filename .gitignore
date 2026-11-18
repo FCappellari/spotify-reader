@@ -1,0 +1,46 @@
+# Variáveis de ambiente e segredos
+.env
+
+# Cache de autenticação do Spotify (Spotipy)
+.cache
+.cache-*
+
+# Cache da aplicação
+cache/
+
+# Arquivos de saída gerados
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+.venv
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
